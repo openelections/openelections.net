@@ -133,6 +133,13 @@ aside#sidebar h3 {
   color: #474747;
 }
 
+aside#sidebar h3:before {
+  content: "///";
+  color: #9ddcff;
+  padding-right: 0.3em;
+  margin-left: 0em;
+}
+
 #downloads {
   margin-bottom: 40px;
 }

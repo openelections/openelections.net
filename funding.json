@@ -66,7 +66,7 @@
         "guid": "ire-donation",
         "type": "payment-provider",
         "address": "https://www.ire.org/donate/",
-        "description": "Donate via IRE's online form. Select 'OpenElections' as the specific fund. IRE is our 501(c)(3) fiscal sponsor; donations are tax-deductible."
+        "description": "Donate via IRE's online form. Enter 'OpenElections' as the specific fund. IRE is our 501(c)(3) fiscal sponsor; donations are tax-deductible."
       },
       {
         "guid": "direct-contact",
